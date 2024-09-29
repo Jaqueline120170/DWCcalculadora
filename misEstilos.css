@@ -1,0 +1,12 @@
+h1 {
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+#resultado {
+    font-size: 1.5rem;
+}
+
+button {
+    width: 100px;
+}
